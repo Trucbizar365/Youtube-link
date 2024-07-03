@@ -1,1 +1,1 @@
-The youtube LegrandOS' links.
+The LegrandOS' youtube links.
