@@ -4,7 +4,7 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #0077ff; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --main-color: #149414; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
   --hover-color: #1e63b3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #00ff8c; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #ff0000; /* danger accent color (hex, rgb or hsl) [default: #982929] */
